@@ -1,2 +1,2 @@
-# Swish-Discord-Bot-Mp4
-Swish transaction generator for Discord in MP4
+Only for educational purposes only, do not use in any malicious way!
+Created by Kiko (me)
